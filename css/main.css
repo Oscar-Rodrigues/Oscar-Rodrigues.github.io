@@ -41,3 +41,16 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+ul.blurb {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+
+}
+
+li {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
