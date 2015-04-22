@@ -1,7 +1,7 @@
 document.write('\
 \
 <nav>\
-    		<ul>\
+    		<ul style="text-align: center;">\
         		<li><a href="../index.html">Home</a></li>\
 	        	<li><a href="../about/about.html">About</a></li>\
         		<li><a href="../cv/cv.html">CV</a></li>\
