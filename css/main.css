@@ -1,14 +1,18 @@
 body {
     margin: 40px auto;
-    width: 70%;
+    width: 75%;
 }
-nav ul, footer ul {
+
+nav {
+    border-bottom: 2px solid #d5d5d5;
+}
+nav ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-nav ul li, footer ul li {
+nav ul li {
     display: inline;
     margin-right: 20px;
 }
@@ -36,7 +40,7 @@ p {
     color: #333;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 2px solid #d5d5d5;
     font-size: .8em;
 }
 
@@ -61,4 +65,17 @@ li {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
     color: #333;
+}
+
+a.socialIcons {
+    margin-top: 5 px;
+    text-align: center;;
+    display: inline-table;
+    vertical-align: middle;
+    width: 25%;
+}
+
+a.socialIcons:hover {
+opacity: .7;
+filter:alpha(opacity=80); /* For IE8 and earlier */
 }

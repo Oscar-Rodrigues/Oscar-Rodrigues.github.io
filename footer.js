@@ -1,10 +1,6 @@
 document.write('\
 <footer>\
-    		<ul style="text-align: center;">\
-        		<li><a href="mailto:oscar@oscar-rodrigues.com">email</a></li>\
-        		<li><a href="https://www.facebook.com/walkingmetaphor">facebook</a></li>\
-        		<li><a href="https://twitter.com/OscarSRodrigues">twitter</a></li>\
-        		<li><a href="https://instagram.com/oscar_rodrigues/">instagram</a></li>\
-			</ul>\
-		</footer>\
+	<p></p>\
+  	<a class="socialIcons" href="mailto:oscar@oscar-rodrigues.com" title="Send me an e-mail!"><img src="pics/email-96.png"/></a><a class="socialIcons" href="https://www.facebook.com/walkingmetaphor" title="Find me on Facebook"><img src="pics/facebook-96.png"/></a><a class="socialIcons" href="https://twitter.com/OscarSRodrigues" title="Follow me on Twitter"><img src="pics/twitter-96.png"/></a><a class="socialIcons" href="https://instagram.com/oscar_rodrigues/" title="Follow me on Instagram"><img src="pics/instagram-96.png"/></a>\
+</footer>\
 ');
