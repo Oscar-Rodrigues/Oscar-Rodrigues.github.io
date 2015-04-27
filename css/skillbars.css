@@ -70,3 +70,12 @@ width:110px;
 	color:#ffffff;
 	color:rgba(0, 0, 0, 0.4);
 }
+
+.skillbar-bar span {
+	white-space: nowrap;
+	float: right;
+	padding-right: 10px;
+	height:35px;
+	line-height:35px;
+	color: #CFFEF0;
+}
