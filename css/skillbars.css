@@ -6,6 +6,8 @@
 	background:#CFFEF0;
 	height:35px;
 	border-radius:3px;
+	font-size: 0.8em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	-moz-border-radius:3px;
 	-webkit-border-radius:3px;
 	-webkit-transition:0.4s linear;
@@ -26,7 +28,7 @@
 	left:0;
 width:110px;
 	font-weight:bold;
-	font-size:13px;
+	font-size:12px;
 	color:#ffffff;
 	background:#6adcfa;
 	-webkit-border-top-left-radius:3px;
