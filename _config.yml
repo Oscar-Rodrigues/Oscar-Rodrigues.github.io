@@ -1,0 +1,144 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Óscar Rodrigues
+name: Óscar Rodrigues
+email: oscar@oscar-rodrigues.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Musician and educator from Porto, Portugal. Music Technology, Guitar, Improvisation, Programming.
+url: "https://oscar-rodrigues.com"
+repository: "Oscar-Rodrigues/Oscar-Rodrigues.github.io"
+teaser: "/assets/images/teaser-500x300.png"
+github_username: Oscar-Rodrigues
+minimal_mistakes_skin: mint
+search: true
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-Q5CPLCW1VR"
+    anonymize_ip: false
+social:
+  type: Person
+  links: 
+    - "https://instagram.com/oscar_rodrigues"
+    - "https://www.youtube.com/channel/UC7s0Ns6giYh_Th8FV36Wwvw"
+    - "https://www.threads.net/@oscar_rodrigues"
+    - "https://bsky.app/profile/oscar-rodrigues.bsky.social"
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 10 # amount of posts to show
+paginate_path: /page:num/
+timezone: Europe/Lisbon
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Óscar Rodrigues"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "Musician and educator from Porto, Portugal. Curator and Team Leader at Digitópia [Casa da Música](https://casadamusica.com)."
+  location: "Porto, Portugal."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://oscar-rodrigues.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/oscar_rodrigues"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Oscar-Rodrigues"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UC7s0Ns6giYh_Th8FV36Wwvw"
+    - label: "Threads"
+      icon: "fab fa-fw fa-threads"
+      url: "https://www.threads.net/@oscar_rodrigues"
+    - label: "Bluesky"
+      icon: "fa-solid fa-fw fa-cloud"
+      url: "https://bsky.app/profile/oscar-rodrigues.bsky.social"
+
+footer:
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/oscar_rodrigues"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Oscar-Rodrigues"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UC7s0Ns6giYh_Th8FV36Wwvw"
+    - label: "Threads"
+      icon: "fab fa-fw fa-threads"
+      url: "https://www.threads.net/@oscar_rodrigues"
+    - label: "Bluesky"
+      icon: "fa-solid fa-fw fa-cloud"
+      url: "https://bsky.app/profile/oscar-rodrigues.bsky.social"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      show_date: true
+      comments: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

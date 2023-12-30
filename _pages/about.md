@@ -1,0 +1,8 @@
+---
+permalink: /about/
+title: "About"
+---
+
+I'm a musician and educator born in Porto, Portugal. I work in the fields of classical music (with a focus on electronic music) and community and collaborative music. I have a degree in Economics from the University of Porto and a degree in Composition from the Escola Superior de Música, Artes e Espectáculo (ESMAE), also in Porto. I also have a Master's degree in Composition and Music Theory (ESMAE), with a project in the area of Real-Time Composition that led to the creation of Instant Ensemble - Porto's Real-Time Composition Ensemble, of which I am the artistic director, and a Master's degree in Music Teaching from the School of Arts of UCP - Porto, with research in the area of improvisation. I am currently the curator and team leader of Digitópia, at Casa da Música, a group dedicated to music creation and education using the facilitating power of technology, of which I've been a part of since 2010. My main activities include the performance of electronic music with resident and guest ensembles (such as the Orquestra Sinfónica do Porto Casa da Música and the Remix Ensemble), with several national and world premieres, the development of workshops and educational programs, the artistic direction of educational concerts, and software programming.
+
+As a composer, I've published and recorded works for various formations and media, from solo instrument to orchestra, chamber music and music for film, theater and dance.
