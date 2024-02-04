@@ -7,7 +7,8 @@ tags:
   - Book of the Month
   - 2024 Nobel challenge
   - Book Review
-
+header:
+  teaser: "/assets/images/240203-Klara.jpg"
 ---
 
 ![Klara and the Sun](/assets/images/240203-Klara.jpg)
