@@ -8,7 +8,7 @@ tags:
   - 2024 Nobel challenge
   - Book Review
 header:
-  teaser: "/assets/images/240203-Klara.jpg"
+  teaser: "/assets/images/240203-Klara-teaser.jpg"
 ---
 
 ![Klara and the Sun](/assets/images/240203-Klara.jpg)
