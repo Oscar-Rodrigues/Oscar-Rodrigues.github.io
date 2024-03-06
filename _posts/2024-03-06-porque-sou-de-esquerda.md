@@ -1,0 +1,27 @@
+---
+title: "Porque sou de esquerda."
+date: 2024-02-03T23:30:00
+categories:
+  - blogPT
+tags:
+  - Política
+  - Ensaio
+header:
+  teaser: "/assets/images/240306-25abr.jpg"
+---
+
+Este é um texto sobre política, provavelmente longo e chato, que escrevo de uma assentada hoje, 6 de março de 2024, sem revisões nem emendas, e que serve sobretudo para organizar ideias. O ponto de partida é uma interrogação pessoal: porque é que me considero uma pessoa de esquerda? Nunca votei nem ponderei votar à direita e, apesar do estado das coisas depois de 8 anos de governo PS (o "estado a que chegámos", como diria o Salgueiro Maia), a primeira vez não será nas eleições de 10 de Março. Certamente muitos de vocês não concordarão comigo - algo me diz que sobretudo os meus amigos de esquerda - e confesso que me sinto um pouco exposto ao expressar assim de forma transparente a minha orientação política, como nunca o fiz. Mas foi para podermos afirmar estas coisas sem qualquer pudor que se fez o 25 de Abril, e estou um pouco farto da redução da discussão política a soundbites e conteúdos para as redes sociais.
+
+Antes de começarmos, três notas prévias e importantes. Em primeiro lugar, e apesar de ser uma pessoa de esquerda, não compro muito do discurso anti-direita. Não creio que as pessoas de direita sejam más, não as vejo como inimigas e não acho que a esquerda seja moralmente superior. Tenho vários amigos de direita que vêem o mundo de forma diferente da minha, e sei que têm as melhores intenções para todos. Vejo o ataque gratuito à direita democrática, pelo simples facto de ser direita, como uma forma de populismo anti-democrático. E esse sim, é o verdadeiro inimigo. 
+
+Um segundo ponto é o de que há muitas formas de se ser de esquerda. Obviamente, e apesar de respeitar essa pluralidade, não me identifico com muitas delas. Não vou entrar em detalhes, mas lamento que não se discuta mais essa pluralidade e os seus possíveis consensos, deixando-nos muitas vezes presos a uma ideia de esquerda "pura" (e geralmente marxista, que é coisa que o filho do meu pai nunca foi) e a uma série de ataques divisivos. A minha esquerda é bastante liberal.
+
+Por último, um ponto ao qual já aludi brevemente: a verdadeira divisão nos dias que vivemos não é entre esquerda e direita, mas entre os defensores da democracia e dos direitos conquistados e os seus opositores. E o tal populismo anti-democrático está em todo o lado, da esquerda à direita, passando até pelos que dizem que não são nem de esquerda nem de direita, como se a ideologia não fosse importante. Claro que há hoje um partido potencialmente mais danoso para a nossa democracia, todos sabemos qual, mas a forma de o combater não será o insulto nem o tempo exagerado de antena que lhe damos ao expor as suas ideias bacocas. A forma de o negar é só uma: trabalhar para melhorar a vida das pessoas.
+
+Posto isto, e respondendo à questão, sou de esquerda essencialmente por duas razões: porque acho que a natureza humana é fundamentalmente boa e todos somos vítimas do nosso contexto, e porque acredito que a mudança e o progresso são possíveis, desejáveis, e podem ser construídos.
+
+A questão da natureza humana é uma reflexão que leva já longos anos, desde as minhas aulas de Ciência Política com o saudoso António Almodôvar, na FEP, e teve origem nos filósofos contratualistas (sobretudo Rousseau, Hobbes e Locke) e na sua visão sobre a origem da autoridade política. As suas diferenças, que vão desde a defesa do absolutismo (em Hobbes) até à democracia directa (por Rousseau) vêm precisamente da forma como entendem a existência natural do homem, antes da existência da sociedade. Estou muito mais perto de Rousseau e Locke, que acreditam que a natureza humana é boa, mas corrompível. Atalhando caminho no meu argumento,(isto daria um outro texto) acredito que a principal razão para alguém não conseguir viver uma vida plena (isto é, cumprir a sua natureza) é um contexto desfavorável e as adversidades que a vida em sociedade lhe coloca. Acredito que é extraordinariamente difícil alguém viver plenamente sem acesso de qualidade a saúde, educação, habitação confortável, um sentido de comunidade, e à cultura. Acredito que todos têm direito a uma vida digna e que é imperativo garantir que as desigualdades nesse acesso não se traduzam em obstáculos para a vida.
+
+O segundo ponto, sobre a mudança e o progresso, remonta à própria origem da separação entre esquerda e direita, na revolução francesa, quando na Assembleia Nacional os defensores do Rei (do status quo) se sentaram à direita do Presidente, e os defensores da revolução e da mudança se sentaram à esquerda. Sempre me identifiquei mais com o progressismo do que com o conservadorismo. Preocupa-me mais que as coisas continuem na mesma do que quando mudam. Não quero consertar o sistema, quero construir um sistema novo. Como diria o John Cage, não sei porque é que as pessoas têm medo das ideias novas: a mim assustam-me as velhas. Preocupo-me muito por ver que nos últimos anos quase não houve reformas estruturais em Portugal.
+
+Não deve ser muito difícil perceber em que partido vou votar, mas este texto não é um apelo ao voto nesse partido. Espero que votem em consciência, de acordo com os vossos princípios, por um futuro melhor e longe dos populismos do "eles são todos iguais e todos corruptos", que nos deixam a todos mais pobres.
