@@ -13,9 +13,10 @@ header:
   teaser: "/assets/images/transistor/shortwave_banner.jpg"
 ---
 
+Transistor is a project I started with my good friend Jorge Prendas. We just released our first album, Shortwave, which is available to listen on all streaming platforms, and also to buy on CD.
+
 !<img src="/assets/images/transistor/shortwave.jpg" alt="Cover of the Shortwave album, released  on November 28th 2024" width="55%">
 
-Transistor is a project I started with my good friend Jorge Prendas. We just released our first album, Shortwave, which is available to listen on all streaming platforms, and also to buy on CD.
 
 It all started back in 2020, during the pandemic and the lockdown, when we were stuck at home and listening to radio stations from all around the world. We started talking about our love for radio, which is such an interesting medium. It is auditory by nature and by design, in a world that is more and more visual. It's also noisy and lo-fi, in an increasingly high-resolution, clear and focused world. It used to be our preferred way of getting to know new music, before the age of algorithms, which tend to feed us what we already want to hear. There's an excitment with radio which makes you focus on the present and sets you up for listening: you can't rewind and go back in time, and, most of the times, you don't know what's next. If you're listening to a music radio program, someone curated the playlist for you, and you have to trust their own taste.
 
