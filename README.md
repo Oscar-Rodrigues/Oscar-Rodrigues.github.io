@@ -1,27 +1,97 @@
-# Minimal Mistakes remote theme starter
+# Óscar Rodrigues - Site and Blog
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+## Overview
+My name is Óscar Rodrigues, and I'm a musician from Porto, Portugal. This website is meant to showcase some of my recent work from 2024 onwards, as I still have a huge back catalog to upload. and process. I built it using Jekyll and the Minimal Mistakes theme. I hope this (very) small step moves us a bit torwards a free and open web.
 
-Contains basic configuration to get you a site with:
+## Technologies Used
+- Jekyll Static Site Generator
+- Minimal Mistakes Theme
+- Markdown
+- GitHub Pages
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## Local Development Setup
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+### Prerequisites
+- Ruby (version 2.7 or higher)
+- RubyGems
+- Jekyll
+- Bundler
 
----
+### Installation Steps
+1. Clone the repository
+```bash
+git clone https://github.com/Oscar-Rodrigues/Oscar-Rodrigues.github.io.git
+cd Oscar-Rodrigues.github.io
+```
 
-## Troubleshooting
+2. Install dependencies
+```bash
+bundle install
+```
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+3. Start local server
+```bash
+bundle exec jekyll serve
+```
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+## Website Structure
+- `_config.yml`: Site configuration
+- `_posts/`: Music blog posts and updates
+- `_pages/`: Static pages (About, Portfolio, Contact)
+- `assets/`: Images, music files, and other media
+
+## Customization
+Modify `_config.yml` to personalize:
+- Site title
+- Author information
+- Social media links
+- Theme settings
+
+## Deployment
+- Recommended: GitHub Pages
+- Alternative: Netlify, Vercel
+
+## License
+
+### Software License
+*MIT License*
+
+Copyright (c) 2024 ÓSCAR RODRIGUES
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+### Content Usage Restrictions
+
+**© 2024 ÓSCAR RODRIGUES. All rights reserved.**
+
+*Original content on this website is strictly protected.*
+
+**Prohibited Actions:**
+- Reproducing content
+- Distributing content
+- Publishing content
+- Transmitting content
+- Displaying content
+- Performing content
+
+*Unauthorized use may result in legal action.*
+
+**Exceptions:**
+- Brief quotations for review
+- Academic purposes
+- Sharing links to original content
+
+*For permissions: oscar@oscar-rodrigues.com*
+
+## Contact
+- Email: oscar@oscar-rodrigues.com
+- Location: Porto, Portugal
+- https://oscar-rodrigues.com
