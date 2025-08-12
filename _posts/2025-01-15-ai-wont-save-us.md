@@ -7,7 +7,7 @@ tags:
   - Amplified silence
   - Essay
 header:
-  teaser: "/assets/images/amplified-silence/as01.jpg"
+  teaser: "/assets/images/amplified-silence/2025/01/as01.jpg"
 ---
 Welcome to the first issue of Amplified Silence, a monthly exploration of sound and listening. I'm [Óscar Rodrigues](https://oscar-rodrigues.com), a musician and educator from Porto, Portugal and, each month, I'll share with you an essay (in the section called *The Long Rest*), three recommendations for things to listen, read, or watch (*Harmonic Triad*) and a list of upcoming events of my own (*Signal Boost*). Thank you for reading.
 
@@ -15,7 +15,7 @@ Welcome to the first issue of Amplified Silence, a monthly exploration of sound 
 
 Artificial Intelligence stands at a strange crossroads in 2025. It's ubiquitous, yet still far from reaching its full potential. What's clear is that it will profoundly impact our lives, even more than it already has - from how we work and communicate to how we think and create music. Creative professionals across all disciplines are understandably concerned. By offering a faster and cheaper way to generate creative works - whether text, images, or music - while simultaneously flooding the market with AI-generated content, there's a genuine risk of devaluing creative work across the board.
 
-{% include figure image_path="/assets/images/amplified-silence/as01.jpg" alt="Credits: ChatGPT (I do see the irony)" caption="Credits: ChatGPT (I do see the irony)" %}
+{% include figure image_path="/assets/images/amplified-silence/2025/01/as01.jpg" alt="Credits: ChatGPT (I do see the irony)" caption="Credits: ChatGPT (I do see the irony)" %}
 
 Making music is an intricate and nuanced process, and AI faces distinct [technical challenges](https://www.youtube.com/watch?v=viR9q61wV4Q) when it comes to generating music and sound. These limitations, and the fact that music is a deeply personal and, at the same time, cultural experience, help explain why AI music generation currently lags behind text and image generation. But the question is no longer whether AI will be capable of creating music - be it as symbolic notation, like scores, or as audio files - that's indistinguishable from compositions made by very talented artists. It's a question of **when** it will be able to do so. And that is a terrifying thought, because we've grown used to thinking about music precisely as the product, that is, the score or the audio. But music is, in fact, much more than that.
 

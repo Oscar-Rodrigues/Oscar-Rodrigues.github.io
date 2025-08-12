@@ -5,15 +5,14 @@ categories:
   - blog
 tags:
   - Book of the Month
-  - 2024 Nobel challenge
   - Book Review
 header:
-  teaser: "/assets/images/240203-Klara-teaser.jpg"
+  teaser: "/assets/images/reviews/2024/240203-Klara.jpg"
 ---
 
-![Klara and the Sun](/assets/images/240203-Klara.jpg)
-
 Science fiction is one of my favourite genres, not because it usually takes us on a journey to different worlds, realities, or distant parts of the universe (although that is pretty awesome, too), but because it forces us to look deeper within ourselves. The implicit contradiction in its name - that is, between science and fiction - means that it's not easy to find the balance between being credible and being truthful. We, the readers, have a particularly sharp eye when it comes to looking for signs of humanity in worlds different than our own because of a particular (and hypothetical) technological advancement or scientific discovery.
+
+{% include figure image_path="/assets/images/reviews/2024/240203-Klara.jpg" alt="Klara and the Sun: Book Cover" caption="Klara and the Sun: Book Cover" %}
 
 This is where Klara and the Sun, a 2021 science fiction novel by British writer Kazuo Ishiguro, really shines. Klara, our protagonist and narrator, is an AF (Artificial Friend), an android who was designed and created to serve as a companion to adolescents. She is very intelligent and shows outstanding observational skills, even though there is a new and more advanced model available. We are introduced to the world she *lives* in through her eyes and her limited understanding and knowledge. She idolizes the Sun because it gives her (and- so she thinks - everyone) nourishment. With every new piece of information and interactions she learns new things and evolves, in much the same way that in our world both humans and machines learn with data. Her character and her goals change throughout the book because of her experiences.
 
@@ -26,5 +25,3 @@ Klara and the Sun is a book the leaves you with more questions (some of which ab
 See you soon,
 
 Óscar
-
-This review is part of my 2024 Nobel Prize in Literature challenge, in which I'll read and review a book by a 21st century Nobel laureate each month.

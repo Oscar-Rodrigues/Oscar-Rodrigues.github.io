@@ -41,7 +41,7 @@ There’s plenty to discuss about the future of the internet, but that’s not t
 
 Music has always found ways to thrive in evolving and shifting landscapes, from courts and churches to radio waves and streaming algorithms. But if we leave it entirely in the hands of tech platforms, we risk reducing it to background noise — just another piece of content in an endless stream. The alternative is to resist. To slow down. To listen with intention. The tools that shape today’s music industry aren’t going away, but we can choose how we engage with them. If we value music as more than just content, we need to act accordingly — by supporti  ng artists directly, fostering real communities, and remembering that the deepest musical experiences aren't dictated by algorithms, but almost certainly involve a profound sense of connection to other people and to ourselves.
 
-{% include figure image_path="/assets/images/amplified-silence/2025/02/as02.webp" alt="Yes, I’ve been playing with ChatGPT for abstract image generation. I kind of like this one and I felt it relates to the idea of finding value in noise." caption="Yes, I’ve been playing with ChatGPT for abstract image generation. I kind of like this one and I felt it relates to the idea of finding value in noise." %}
+{% include figure image_path="/assets/images/amplified-silence/2025/02/as02.jpg" alt="Yes, I’ve been playing with ChatGPT for abstract image generation. I kind of like this one and I felt it relates to the idea of finding value in noise." caption="Yes, I’ve been playing with ChatGPT for abstract image generation. I kind of like this one and I felt it relates to the idea of finding value in noise." %}
 
 {% include newsletter-signup.html %}
 
@@ -70,7 +70,7 @@ Their work is not only inclusive but also deeply formative. Participants (in thi
 Visually, the films are stunning and often surprising. What I appreciate most is that they never feel condescending (a common issue in films made _with_ or _for_ kids). Instead, they respect and incorporate the unique perspectives of their young creators, making the results truly special. You can watch many of their films for free in their [Digital Archive/Library](https://www.anilupa.pt/en/cinemateca/catalogo).  
 Truly, public service at its best.
 
-{% include figure image_path="/assets/images/amplified-silence/2025/02/vb.webp" alt="“Estendal” (2021), one of Anilupa’s films we played at Vejam Bem." caption="“Estendal” (2021), one of Anilupa’s films we played at Vejam Bem." %} 
+{% include figure image_path="/assets/images/amplified-silence/2025/02/vb.jpg" alt="“Estendal” (2021), one of Anilupa’s films we played at Vejam Bem." caption="“Estendal” (2021), one of Anilupa’s films we played at Vejam Bem." %} 
 
 ## Signal Boost
 

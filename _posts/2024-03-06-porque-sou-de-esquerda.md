@@ -7,7 +7,7 @@ tags:
   - Política
   - Ensaio
 header:
-  teaser: "/assets/images/240306-25abr.jpg"
+  teaser: "/assets/images/misc/240306-25abr.jpg"
 ---
 
 Este é um texto sobre política, provavelmente longo e chato, que escrevo de uma assentada hoje, 6 de março de 2024, sem revisões nem emendas, e que serve sobretudo para organizar ideias. O ponto de partida é uma interrogação pessoal: porque é que me considero uma pessoa de esquerda? Nunca votei nem ponderei votar à direita e, apesar do estado das coisas depois de 8 anos de governo PS (o "estado a que chegámos", como diria o Salgueiro Maia), a primeira vez não será nas eleições de 10 de Março. Certamente muitos de vocês não concordarão comigo - algo me diz que sobretudo os meus amigos de esquerda - e confesso que me sinto um pouco exposto ao expressar assim de forma transparente a minha orientação política, como nunca o fiz. Mas foi para podermos afirmar estas coisas sem qualquer pudor que se fez o 25 de Abril, e estou um pouco farto da redução da discussão política a soundbites e conteúdos para as redes sociais.

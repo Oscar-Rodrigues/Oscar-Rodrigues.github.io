@@ -1,0 +1,16 @@
+<figure class="{% if include.class %}{{ include.class }}{% endif %}">
+  <picture>
+    {% assign img_path = include.image_path %}
+    {% assign img_webp = img_path | replace: '.jpg', '.webp' | replace: '.jpeg', '.webp' | replace: '.png', '.webp' %}
+    
+    <source srcset="{{ img_webp | relative_url }}" type="image/webp">
+    <img src="{{ img_path | relative_url }}"
+         alt="{{ include.alt | default: '' }}"
+         {% if include.width %}width="{{ include.width }}"{% endif %}
+         {% if include.height %}height="{{ include.height }}"{% endif %}>
+  </picture>
+
+  {% if include.caption %}
+    <figcaption>{{ include.caption }}</figcaption>
+  {% endif %}
+</figure>
