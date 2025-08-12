@@ -10,7 +10,7 @@ header:
   teaser: "/assets/images/amplified-silence/2025/03/as03.jpg"
 ---
 
-Welcome to the second issue of Amplified Silence, a monthly exploration of sound and listening. I'm [Óscar Rodrigues](https://oscar-rodrigues.com/), a musician and educator from Porto, Portugal and, each month, I'll share with you an essay (in the section called _The Long Rest_ ), three recommendations for things to listen, read, or watch ( _Harmonic Triad_ ) and a list of upcoming events of my own ( _Signal Boost_ ). Thank you for reading.
+Welcome to the third issue of Amplified Silence, a monthly exploration of sound and listening. I'm [Óscar Rodrigues](https://oscar-rodrigues.com/), a musician and educator from Porto, Portugal and, each month, I'll share with you an essay (in the section called _The Long Rest_ ), three recommendations for things to listen, read, or watch ( _Harmonic Triad_ ) and a list of upcoming events of my own ( _Signal Boost_ ). Thank you for reading.
 
 ## The Long Rest - Generative Silence
 
