@@ -7,7 +7,8 @@
     <img src="{{ img_path | relative_url }}"
          alt="{{ include.alt | default: '' }}"
          {% if include.width %}width="{{ include.width }}"{% endif %}
-         {% if include.height %}height="{{ include.height }}"{% endif %}>
+         {% if include.height %}height="{{ include.height }}"{% endif %}
+         loading="lazy">
   </picture>
 
   {% if include.caption %}
