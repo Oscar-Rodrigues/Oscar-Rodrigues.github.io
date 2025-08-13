@@ -1,0 +1,27 @@
+/* Make Minimal Mistakes gallery images square and fix layout */
+figure.third {
+  display: flex !important;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+figure.third img {
+  width: 32% !important; /* 3 columns with some gap */
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  margin-bottom: 1em;
+}
+
+/* Responsive: 2 columns on smaller screens */
+@media (max-width: 768px) {
+  figure.third img {
+    width: 48% !important; /* 2 columns */
+  }
+}
+
+/* Responsive: 1 column on mobile */
+@media (max-width: 480px) {
+  figure.third img {
+    width: 100% !important; /* 1 column */
+  }
+}
